@@ -1,4 +1,4 @@
-package com.seoai.Seoai;
+package com.seoai.seoai;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
